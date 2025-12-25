@@ -13,7 +13,6 @@ The project focuses on modern UI design, responsiveness, and clear user flow for
 - 💬 Testimonials section with smooth slider
 - 📱 Fully responsive (mobile, tablet & desktop)
 - 🎨 Clean, modern esports-themed UI
-- ⚡ Fast loading static site
 
 ---
 
@@ -21,7 +20,7 @@ The project focuses on modern UI design, responsiveness, and clear user flow for
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
+- **JavaScript**
 - **Netlify** (Deployment)
 
 ---
